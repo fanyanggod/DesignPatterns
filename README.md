@@ -1,8 +1,8 @@
 # Design Patterns
 
 ## Create 
-### Singleton Pattern
-### Factory Pattern
+### [Singleton Pattern](./singleton/Singleton.md)
+### [Factory Pattern](./factory/Factory.md)
 ### Abstract Pattern
 ### Builder Pattern
 ### Prototype Pattern
